@@ -5,5 +5,7 @@ void main(){
     print(greeting+' Kartik ');  // this is not recomended
 
     print('${greeting} Kartik !');
+    print('''hello this is
+    a multiline \n string''');
 
 }
