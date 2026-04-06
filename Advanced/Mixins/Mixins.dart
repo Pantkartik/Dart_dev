@@ -3,7 +3,7 @@
 
 void animal_main(){
     final animal=animal()
-    print(animal.fn());
+    animal.fn();
 }
 mixin run(){
     print(running);
